@@ -82,6 +82,17 @@ The model segments customers into different groups based on their RFM behavior.
 
 These segments can help identify high-value customers, frequent buyers, low-engagement customers and customers who may need retention strategies.
 
+## Visual Results
+
+### Elbow Method
+![Elbow Method](images/elbow-method.png)
+
+### Silhouette Score
+![Silhouette Score](images/silhouette-score.png)
+
+### Cluster Analysis
+![Cluster Analysis](images/cluster-analysis.png)
+
 ## Conclusion
 
 This project demonstrates how unsupervised learning can transform raw transaction data into meaningful customer segments.
