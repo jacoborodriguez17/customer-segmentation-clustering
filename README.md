@@ -1,5 +1,7 @@
 # Customer Segmentation using K-Means Clustering
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o8eTwGRPC1JkSG8NOiAva54QqXwPKV4V?usp=sharing)
+
 Academic team project developed at CETYS University.
 
 Machine learning project developed in Google Colab for customer segmentation using RFM analysis and K-Means clustering.
